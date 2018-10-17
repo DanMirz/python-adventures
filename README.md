@@ -1,1 +1,1 @@
-# python-adventures
+Self documentation throughout Python projects
