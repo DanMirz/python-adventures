@@ -5,8 +5,8 @@ number = randrange(1, 11)
 while True:
     print(number)
     try:
-        guess = float(input("Your guess?"))
-    except NameError:
+        guess = float(input("Your guess? "))
+    except ValueError:
         print("Not a number try again")
         continue
     if guess > number:
