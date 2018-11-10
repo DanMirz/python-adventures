@@ -1,1 +1,1 @@
-Self documentation throughout Python projects
+Self documentation throughout Python programming projects
